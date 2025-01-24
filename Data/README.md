@@ -1,4 +1,12 @@
 # 📊 **Dataset Description**
+📌 **Note**:  
+This datasets are uploaded using git LFS and its just the attributes of the files that is seen here, to have access to this dataset you need to clone this repository and install git LFS then pull to access the datasets. 
+
+git lfs install  (if you are using a Mac you need brew to install this from terminal then initialise the install on the working directory or the local host)
+git clone https://github.com/Tolorunleke/InstaCart.git
+git lfs pull
+
+Ensure you are on the working directory before running the provided code.
 
 ## 🛒 **Orders Dataset** (3.4M rows, 206K users)
 
